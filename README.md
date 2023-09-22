@@ -8,4 +8,3 @@ para os sensores inciais.
 Os leds sao as luzes e tem valor variavel pois sao exenciais para o projeto
 
 O codigo esta funcional e preparado para qualquer tipo de beachmark.
-
